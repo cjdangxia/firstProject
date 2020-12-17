@@ -1,1 +1,5 @@
-env=config-eureka-dev
+data:
+  env: config-eureka-test
+  user:
+    username: test
+    password: 666666
