@@ -2,4 +2,4 @@ data:
   env: config-eureka-dev
   user:
     username: dev
-    password: 222222
+    password: 333333
